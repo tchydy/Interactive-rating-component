@@ -31,17 +31,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot-desktop.jpg)
-![](./screenshot-mobile.jpg)
-![](./screenshot-mobile1.jpg)
+![](./screenshot-desktop.png)
+![](./screenshot-mobile.png)
+![](./screenshot-mobile1.png)
 
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution URL here](https://github.com/tchydy/Interactive-rating-component)
+- Live Site URL: [ live site URL here](https://tchydy.github.io/Interactive-rating-component/)
 
 ## My process
 
@@ -64,9 +64,9 @@ culprit found css was not working because i used
 ```css
 .thankyou-card-container .hide 
 ```
-with a space between instead of 
+with a space between instead of this
 ```css
-this .thankyou-card-container.hide 
+.thankyou-card-container.hide 
 ```
 That slight difference made the code fail. 
 Another logic I encountered was if no score is selected what happens. I made the button disabled.
