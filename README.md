@@ -77,11 +77,11 @@ To see how you can add code snippets, see below:
 ### Continued development
 
 - Would love to add animations to the elements on load.
-- Add jiggle animation when no sore is selected on submit
+- Add jiggle animation when no score is selected on submit
 
 ### Useful resources
 
-- [event.target.id VS event.currentTarget.id VS this.id](https://stackoverflow.com/questions/32456290/event-target-id-vs-event-currenttarget-id-vs-this-id) - I wanted to know the differences between them and use cases this thread helped.
+- [event.target.id VS event.currentTarget.id VS this.id](https://stackoverflow.com/questions/32456290/event-target-id-vs-event-currenttarget-id-vs-this-id) - I wanted to know the differences between them and use cases, this thread helped.
 - [Check for null in JavaScript](https://javascript.plainenglish.io/how-to-check-for-null-in-javascript-dffab64d8ed5) - I was not sure what equality to use in this instance so this article helped.
 
 
